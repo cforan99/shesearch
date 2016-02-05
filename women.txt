@@ -1,0 +1,75 @@
+#Ada ByronKing (aka Ada Lovelace)	Ada Byron King (aka Ada Lovelace)
+#EdithClarke	Edith Clarke
+#Margaret R.Fox	Margaret R. Fox
+#HedyLamarr	Hedy Lamarr
+#Grace MurrayHopper	Grace Murray Hopper
+#Kay McNulty MauchlyAntonelli	Kay McNulty Mauchly Antonelli
+#FrancesSpence	Frances Spence
+#JeanBartik	Jean Bartik
+#Frances ElizabethHolberton	Frances Elizabeth Holberton
+#RuthTeitelbaum	Ruth Teitelbaum
+#MarlynMeltzer	Marlyn Meltzer
+#AdeleGoldstine	Adele Goldstine
+#KayMcNulty	Kay McNulty
+#BettySnyder	Betty Snyder
+#MarlynWescoff	Marlyn Wescoff
+#RuthLichterman	Ruth Lichterman
+#BettyJennings	Betty Jennings
+#FranBilas	Fran Bilas
+#RosaPeter	Rosa Peter
+#Beatrice HelenWorsley	Beatrice Helen Worsley
+#ThelmaEstrin	Thelma Estrin
+#KatherineJohnson	Katherine Johnson
+#Evelyn BoydGranville	Evelyn Boyd Granville
+#Joyce CurrieLittle	Joyce Currie Little
+#Mary K.Hawes	Mary K. Hawes
+#Alexandra IllmerForsythe	Alexandra Illmer Forsythe
+#Jean E.Sammet	Jean E. Sammet
+#BetsyAncker-Johnson	Betsy Ancker-Johnson
+#Sister Mary KennethKeller	Sister Mary Kenneth Keller
+#Barbara H.Liskov	Barbara H. Liskov
+#Joan MargaretWinters	Joan Margaret Winters
+#Erna SchneiderHoover	Erna Schneider Hoover
+#Karen SpärckJones	Karen Spärck Jones
+#SandraKurtzig	Sandra Kurtzig
+#LenoreBlum	Lenore Blum
+#Jean E.Sammet	Jean E. Sammet
+#LynnConway	Lynn Conway
+#AdeleGoldberg	Adele Goldberg
+#AliceBurks	Alice Burks
+#RadiaPerlman	Radia Perlman
+#ShafriraGoldwasser	Shafrira Goldwasser
+#IreneGreif	Irene Greif
+#LeahJamieson	Leah Jamieson
+#AnitaBorg	Anita Borg
+#MariaKlawe	Maria Klawe
+#CarolBartz	Carol Bartz
+#EllenOchoa	Ellen Ochoa
+#WendyHall	Wendy Hall
+#Mary LouJespen	Mary Lou Jespen
+#EviNemeth	Evi Nemeth
+#ManuelaVeloso	Manuela Veloso
+#DeniseDenton	Denise Denton
+#CarlyFiorina	Carly Fiorina
+#LucySanders	Lucy Sanders
+#ShafiGoldwasser	Shafi Goldwasser
+#SusanDumais	Susan Dumais
+#DianeGreene	Diane Greene
+#EvaTardos	Eva Tardos
+#YafengSun	Yafeng Sun
+#CynthiaBreazeal	Cynthia Breazeal
+#Mary JaneIrwin	Mary Jane Irwin
+#JeannetteWing	Jeannette Wing
+#SaraCatz	Sara Catz
+#PadmasreeWarrior	Padmasree Warrior
+#RadiaPerlman	Radia Perlman
+#Rosalind W.Picard	Rosalind W. Picard
+#BarbaraSimons	Barbara Simons
+#JanieTsao	Janie Tsao
+#Frances E.Allen	Frances E. Allen
+#SophieVandebroek	Sophie Vandebroek
+#NancyLynch	Nancy Lynch
+#BarbaraLiskov	Barbara Liskov
+#SusanLandau	Susan Landau
+#MegWhitman	Meg Whitman
+#GinniRometty	Ginni Rometty
